@@ -1,0 +1,94 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+}
+
+
+.container{
+    margin-top: 7rem;
+    margin-left: 7rem;
+}
+
+
+body{
+    background-color:darkblue;
+}
+
+
+#upper-text{
+    color:white;
+    font-size: 3rem;
+}
+
+
+#lower-text{
+    color:green;
+    font-size: 3rem;
+    margin-top: 0.25rem;
+}
+
+
+hr{
+    width:22rem;
+    color:green;
+    margin-bottom: 1rem;
+
+}
+
+.search-bar{
+   margin-top: 2rem;
+   background-color: white;
+   width: 550px;
+   height:54px;
+   display: flex;
+   gap:3rem;
+   }
+
+input{
+    margin-top: 0.75rem;
+    margin-left: 0.5rem;
+    height: 27px;
+    width:450px;
+    border:none;
+    outline: 0;
+    font-size: 20px;
+}
+
+img{
+    margin-top: 0.75rem;
+    width: 30px;
+    height:30px;
+}
+
+.text{
+    height:27px;
+    width: 185px;
+    margin-top:1rem;
+    display: flex;
+    background-color: green;
+    gap:0.5rem;
+    color:white;
+   
+}
+#icon2{
+    margin-left: 0.5rem;
+    margin-top: 0.28rem;
+}
+#button{
+   text-align: center;
+   margin-top: 0.25rem;
+  
+   height:200px;
+   width: 200px;
+}
+#btn{
+    background-color: green;
+    outline: 0;
+    border:0;
+    color: white;
+    font-size: 0.95rem;
+    cursor:pointer;
+}
+
+
